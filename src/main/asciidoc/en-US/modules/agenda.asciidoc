@@ -8,125 +8,18 @@ A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
 n=&#241; N=&#209;
 ////
 
-== AGENDA
+== link:index.html[AGENDA]
 
-* Llevar el metro.
-
-* Tomar la medidas de las mesas en las salas de informatica
-
-* Comprar los candados
-
-* Bajar la mesa y las sillas
-
-* Tomar medidas de los locales
-
-* Tomar medidas de las paredes segundo piso para calcular la cantidad de ladrillos H10
-
-* Comprar ladrillos H10
-
-=== AGENDA PRIMER PISO
-
-* Cotizar y seleccionar el piso
-
-* Cotizar los baños.
-
-* Sacar los costos de acuerdo a las medidas
-
-* Actividades de las obras
-
-** Colocar el piso
-
-** Colocar el piso
-
-** Habilitar la electricidad
-
-** Habilitar el agua.
-
-** Habilitar el gas.
-
-=== AGENDA SEGUNDO PISO
-
-* Cotizar la adcuaci&#243;n del segundo piso.
-
-* Cotizar la ceramica de los pisos.
-
-* Cotizar el baño especial
-
-=== AGENDA TERCER PISO
+* Solicitar el certificado del Estrato Valor $20,000
 
 
-=== PROYECTO PRIMER PISO
-
-* Habilitar los 3 locales y el gareje
-
-* El local esquinero montar negocio de la  fruteria
-
-* Arrendar 2 locales pequeños y el garage
-
-* La renta de los 2 locales pequeños y el garage tomarla para pagar la couta del prestamo para ejecutar
-
-==== LOCAL ESQUINERO NEGOCIO FRUTERIA
-
-* La carta, fotos y link el el ipod
-
-==== LOCAL INTERMEDIO
-
-==== LOCAL FINAL
-
-==== LOCAL GARAJE
-
-==== APARTAESTUDIO
 
 
-=== PROYECTO SEGUNDO PISO
-
-* Adcuaci&#243;n del segundo piso
-
-** Cuatro de salas de informatica
-
-** Oficina de adminisraci&#243;n y &#225;rea de trabajo
-
-** Muebles y Enseres salas de informnatica
-
-*** Muebles
-
-*** Sillas
-
-*** Tableros
-
-*** Applet TV
-
-*** Otros
-
-* Cableado estructurado
-
-* Red el&#233;ctrica regulada
-
-* Red el&#233;ctrica normal
-
-* Internet
-
-* Wifi
-
-* Software acad&#233;mico
-
-* Sofware de administraci&#243;n
 
 
-=== TERCER PISO
 
-=== CONTABILIDAD
 
-=== ACTIVIDADES REALIZADAS
 
-* Hablar en la casa: Que G trabaje conmigo:vivienda, alimentacion, estudio. Pagar una misa
 
-* En que consiste el trabajo: Que realice las tareas que yo le ordene y que este bajo mis ordenes.
 
-* Buscar contacto con Perez
 
-* Traer a G
-
-* Preguntar oficinas del Cacique
-
-* Curso de diseño gráfico Gráfico.

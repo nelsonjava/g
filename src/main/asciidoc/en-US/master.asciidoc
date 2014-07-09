@@ -1,7 +1,28 @@
 = PROYECTO G
 
 include::modules/agenda.asciidoc[]
-include::modules/contactos.asciidoc[]
-include::modules/intro.asciidoc[]
-
+include::modules/piso1/piso1.asciidoc[]
+include::modules/local1/local1.asciidoc[]
+include::modules/local2/local2.asciidoc[]
+include::modules/local3/local3.asciidoc[]
+include::modules/local4/local4.asciidoc[]
+include::modules/local5/local5.asciidoc[]
 include::modules/piso2/piso2.asciidoc[]
+include::modules/apto201/apto201.asciidoc[]
+include::modules/apto202/apto202.asciidoc[]
+include::modules/piso3/piso3.asciidoc[]
+include::modules/contactos.asciidoc[]
+include::modules/cotizaciones.asciidoc[]
+include::modules/prestamos.asciidoc[]
+include::modules/tramites.asciidoc[]
+include::modules/recursos.asciidoc[]
+include::modules/presupuesto.asciidoc[]
+include::modules/materiales.asciidoc[]
+include::modules/personal.asciidoc[]
+
+
+
+
+
+
+
