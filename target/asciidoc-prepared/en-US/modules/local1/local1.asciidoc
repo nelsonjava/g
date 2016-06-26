@@ -1,0 +1,30 @@
+[[local1]]
+
+////
+�=&#225; �=&#233; �=&#237; �=&#243; �=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== link:index.html[LOCAL No.1]
+
+.https://youtu.be/gZ9D53-d0yE[Video No.1]
+
+== IMAGENES
+
+image::images/local1/local1-1.JPG[]
+image::images/local1/local1-2.JPG[]
+image::images/local1/local1-3.JPG[]
+image::images/local1/local1-4.JPG[]
+image::images/local1/local1-5.JPG[]
+image::images/local1/local1-6.JPG[]
+image::images/local1/local1-7.JPG[]
+image::images/local1/local1-8.JPG[]
+image::images/local1/local1-9.JPG[]
+
+
+
+
+

@@ -10,5 +10,23 @@ n=&#241; N=&#209;
 
 == link:index.html[LOCAL No.1]
 
+.https://youtu.be/gZ9D53-d0yE[Local No.1]
+.https://youtu.be/HxpZ0WMsowU[Local No.2]
+.https://youtu.be/fmX4qMiJr7Q[Local No.3]
+.https://youtu.be/dtFNmjyGUoc[Local No.4]
+== IMAGENES
+
+image::images/local1/local1-1.JPG[]
+image::images/local1/local1-2.JPG[]
+image::images/local1/local1-3.JPG[]
+image::images/local1/local1-4.JPG[]
+image::images/local1/local1-5.JPG[]
+image::images/local1/local1-6.JPG[]
+image::images/local1/local1-7.JPG[]
+image::images/local1/local1-8.JPG[]
+image::images/local1/local1-9.JPG[]
+
+
+
 
 

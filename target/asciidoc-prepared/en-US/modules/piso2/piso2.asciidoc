@@ -1,0 +1,45 @@
+[[piso2]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== link:index.html[PISO No.2]
+
+* Tomar medidas de las paredes segundo piso para calcular la cantidad de ladrillos H10
+
+* Adcuaci&#243;n del segundo piso
+
+** Cuatro de salas de informatica
+
+** Oficina de adminisraci&#243;n y &#225;rea de trabajo
+
+** Muebles y Enseres salas de informnatica
+
+*** Muebles
+
+*** Sillas
+
+*** Tableros
+
+*** Applet TV
+
+*** Otros
+
+* Cableado estructurado
+
+* Red el&#233;ctrica regulada
+
+* Red el&#233;ctrica normal
+
+* Internet
+
+* Wifi
+
+* Software acad&#233;mico
+
+* Sofware de administraci&#243;n
